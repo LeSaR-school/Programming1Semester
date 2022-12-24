@@ -1,6 +1,4 @@
-using System;
-
-class Human{
+public class Human{
 
 	public string Name { get; private set; } = "Lyceum Student";
 
